@@ -1,0 +1,4 @@
+git add t01
+git commit -m "task 1"
+git push
+
